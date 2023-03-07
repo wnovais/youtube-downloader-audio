@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wKRIGMnsbP9VaMfQEBqjKT5RvgMiZ8PMLTMhIY87JcgtWROiXBSkeSuZRWE+wPxUGKQFs89ggDx1KozKjV46Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willi\\source\\repos\\YoutubeDownloaderMP3\\YoutubeDownloaderMP3\\YoutubeDownloaderMP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willi\\.nuget\\packages\\anglesharp\\1.0.1\\anglesharp.1.0.1.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512",
+    "C:\\Users\\willi\\.nuget\\packages\\youtubeexplode\\6.2.8\\youtubeexplode.6.2.8.nupkg.sha512"
+  ],
+  "logs": []
+}
